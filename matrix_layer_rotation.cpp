@@ -1,4 +1,3 @@
-//The only hard question in practice @HackerRank
 
 /*
 Problem statement: You are given a 2D matrix of dimension X * y and a positive integer r. You have to rotate the matrix r times and print the resultant matrix. 
